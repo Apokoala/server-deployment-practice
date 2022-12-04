@@ -2,7 +2,8 @@ LAB - 401n22
 Project: Node Ecosystem, CI/CD
 Author: Michael Gazaway
 Links and Resources
-ci/cd (GitHub Actions):
+ci/cd (GitHub Actions): https://github.com/Apokoala/server-deployment-practice/actions
+(Its refusing to acknowledge i ran prettier on it ill check in on this later)
 back-end server url (when applicable):
 front-end application (when applicable):
 Setup:
