@@ -4,7 +4,7 @@ const request = supertest(server);
 
 test('answertotheultimatequestion endpoint', async () => {
   const response = await request.get('/answertotheultimatequestion');
-  expect(response.text).toBe('42!');
+  expect(response.text).toEqual('42!');
 });
 
 //force
