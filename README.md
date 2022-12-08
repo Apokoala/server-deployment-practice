@@ -1,4 +1,4 @@
-#LAB - 401n22
+# LAB - 401n22
 
 Project: Node Ecosystem, CI/CD
 
@@ -13,14 +13,14 @@ back-end server url (when applicable):
 
 front-end application (when applicable):https://lab-1.onrender.com/answertotheultimatequestion
 
-##Setup:
+## Setup:
 
 .env requirements (where applicable):
 i.e.
 
 ##PORT - 3000
 
-##DATABASE_URL - URL to the running Postgres instance/db:
+## DATABASE_URL - URL to the running Postgres instance/db:
 How to initialize/run your application (where applicable):npm start
 e.g. npm start
 How to use your library (where applicable)
